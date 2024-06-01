@@ -9,3 +9,7 @@ header {
     font-weight: ultralight;
     font-style: italic;
 }
+
+wip-notice {
+    direction: column;
+}
